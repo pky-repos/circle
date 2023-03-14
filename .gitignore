@@ -1,0 +1,24 @@
+.idea
+data
+circle/__pycache__
+
+Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+.DS_Store
+
+static/*
+
+db.sqlite3
+
+.ipynb_checkpoints
+Untitled.ipynb
+
+.env
+
+.history
